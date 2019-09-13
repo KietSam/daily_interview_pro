@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce02d3ed-350a-4965-8b6a-9af2d930da70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2019.9.12/problem.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019.9.12/scrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.9.13/my_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.9.13/problem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.9.13/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy_n_paste/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_boilerplate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/copy_n_paste/interview_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/2019.9.13/scrap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/copy_n_paste/test_boilerplate.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +25,7 @@
     <SUITE FILE_PATH="coverage/daily_interview_pro$scrap.coverage" NAME="scrap Coverage Results" MODIFIED="1568061735030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.9.9" />
     <SUITE FILE_PATH="coverage/daily_interview_pro$interview_code__2_.coverage" NAME="interview_code (2) Coverage Results" MODIFIED="1568236475581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.9.11" />
     <SUITE FILE_PATH="coverage/daily_interview_pro$interview_code__3_.coverage" NAME="interview_code (3) Coverage Results" MODIFIED="1568322413055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.9.12" />
+    <SUITE FILE_PATH="coverage/daily_interview_pro$my_solution.coverage" NAME="my_solution Coverage Results" MODIFIED="1568409404943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.9.13" />
     <SUITE FILE_PATH="coverage/daily_interview_pro$pytest_in_test_boilerplate_py.coverage" NAME="pytest in solution.py Coverage Results" MODIFIED="1568324545950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.9.12" />
     <SUITE FILE_PATH="coverage/daily_interview_pro$pytest_for_test_boilerplate_BoilerplateTest_test2.coverage" NAME="pytest for test_boilerplate.BoilerplateTest.test2 Coverage Results" MODIFIED="1568322550655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/daily_interview_pro$pytest_for_solution_BoilerplateTest_test2.coverage" NAME="pytest for solution.BoilerplateTest.test2 Coverage Results" MODIFIED="1568324640921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019.9.12" />
@@ -33,20 +37,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2019.9.12/solution.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019.9.13/problem.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019.9.12/problem.txt">
+        <entry file="file://$PROJECT_DIR$/2019.9.13/solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2019.9.13/my_solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="46" column="19" lean-forward="true" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -78,7 +91,6 @@
         <option value="$PROJECT_DIR$/2019.9.10/problem.txt" />
         <option value="$PROJECT_DIR$/2019.9.10/interview_code.py" />
         <option value="$PROJECT_DIR$/copy_n_paste/interview_code.py" />
-        <option value="$PROJECT_DIR$/copy_n_paste/problem.txt" />
         <option value="$PROJECT_DIR$/copy_n_paste/scrap.py" />
         <option value="$PROJECT_DIR$/2019.9.11/problem.txt" />
         <option value="$PROJECT_DIR$/2019.9.11/interview_code.py" />
@@ -87,11 +99,16 @@
         <option value="$PROJECT_DIR$/2019.9.12/solution/__init__.py" />
         <option value="$PROJECT_DIR$/2019.9.12/test_boilerplate.py" />
         <option value="$PROJECT_DIR$/2019.9.12/solution.py" />
+        <option value="$PROJECT_DIR$/copy_n_paste/problem.txt" />
+        <option value="$PROJECT_DIR$/copy_n_paste/solution.py" />
+        <option value="$PROJECT_DIR$/2019.9.13/problem.txt" />
+        <option value="$PROJECT_DIR$/2019.9.13/solution.py" />
+        <option value="$PROJECT_DIR$/2019.9.13/my_solution.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
+    <option name="x" value="2551" />
     <option name="y" value="-9" />
     <option name="width" value="2578" />
     <option name="height" value="1406" />
@@ -119,6 +136,11 @@
             <path>
               <item name="daily_interview_pro" type="b2602c69:ProjectViewProjectNode" />
               <item name="daily_interview_pro" type="462c0819:PsiDirectoryNode" />
+              <item name="2019.9.13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="daily_interview_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily_interview_pro" type="462c0819:PsiDirectoryNode" />
               <item name="copy_n_paste" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -135,15 +157,15 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Kiet Sam\git\daily_interview_pro\2019.9.12\solution" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kiet Sam\git\daily_interview_pro\2019.9.13" />
+      <recent name="C:\Users\Kiet Sam\git\daily_interview_pro\copy_n_paste" />
       <recent name="C:\Users\Kiet Sam\git\daily_interview_pro\2019.9.12" />
       <recent name="C:\Users\Kiet Sam\git\daily_interview_pro\2019.9.11" />
-      <recent name="C:\Users\Kiet Sam\git\daily_interview_pro\copy_n_paste" />
       <recent name="C:\Users\Kiet Sam\git\daily_interview_pro\2019.9.10" />
-      <recent name="C:\Users\Kiet Sam\git\daily_interview_pro\2019.9.9" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kiet Sam\git\daily_interview_pro\2019.9.12\solution" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -158,7 +180,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for solution.BoilerplateTest">
+  <component name="RunManager" selected="Python.my_solution">
+    <configuration name="my_solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="daily_interview_pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019.9.13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019.9.13/my_solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for solution.BoilerplateTest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="daily_interview_pro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,22 +251,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_boilerplate.BoilerplateTest.test1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="daily_interview_pro" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_boilerplate.BoilerplateTest.test1&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="pytest in solution.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="daily_interview_pro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,11 +269,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.my_solution" />
         <item itemvalue="Python tests.pytest for solution.BoilerplateTest" />
         <item itemvalue="Python tests.pytest for solution.BoilerplateTest.test2" />
         <item itemvalue="Python tests.pytest in solution.py" />
         <item itemvalue="Python tests.pytest for test_boilerplate.BoilerplateTest" />
-        <item itemvalue="Python tests.pytest for test_boilerplate.BoilerplateTest.test1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -263,17 +291,14 @@
       <workItem from="1568060839842" duration="1496000" />
       <workItem from="1568144271390" duration="4998000" />
       <workItem from="1568236019785" duration="1129000" />
-      <workItem from="1568320819581" duration="3235000" />
+      <workItem from="1568320819581" duration="3854000" />
+      <workItem from="1568405561540" duration="834000" />
+      <workItem from="1568406742575" duration="29000" />
+      <workItem from="1568408328122" duration="812000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_test_boilerplate_BoilerplateTest_test2 - 2019.09.12 at 14h 09m 11s.xml">
-      <configuration name="pytest for test_boilerplate.BoilerplateTest.test2" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_boilerplate_BoilerplateTest - 2019.09.12 at 14h 10m 00s.xml">
-      <configuration name="pytest for test_boilerplate.BoilerplateTest" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_for_test_boilerplate_BoilerplateTest_test1_(1) - 2019.09.12 at 14h 10m 50s.xml">
       <configuration name="pytest for test_boilerplate.BoilerplateTest.test1 (1)" configurationId="tests" />
     </history-entry>
@@ -298,20 +323,26 @@
     <history-entry file="pytest_for_solution_BoilerplateTest_test2 - 2019.09.12 at 14h 42m 31s.xml">
       <configuration name="pytest for solution.BoilerplateTest.test2" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_for_solution_BoilerplateTest_test2 - 2019.09.12 at 14h 44m 01s.xml">
+      <configuration name="pytest for solution.BoilerplateTest.test2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_solution_BoilerplateTest - 2019.09.12 at 14h 44m 11s.xml">
+      <configuration name="pytest for solution.BoilerplateTest" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13540000" />
+    <option name="totallyTimeSpent" value="15834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="2578" height="1406" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1538769" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15867306" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.51174086" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23076923" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -418,24 +449,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/copy_n_paste/interview_code.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/copy_n_paste/problem.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/copy_n_paste/scrap.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/copy_n_paste/test_boilerplate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/copy_n_paste/interview_code.py" />
+    <entry file="file://$PROJECT_DIR$/copy_n_paste/test_boilerplate.py" />
     <entry file="file://$PROJECT_DIR$/2019.9.11/test_boilerplate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -459,33 +474,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_boilerplate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019.9.12/solution/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" selection-start-column="36" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019.9.12/solution/interview_code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="27" selection-end-line="46" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_boilerplate.py" />
+    <entry file="file://$PROJECT_DIR$/2019.9.12/solution/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/2019.9.12/solution/interview_code.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/diff_tools.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
           <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.9.12/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copy_n_paste/scrap.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/2019.9.12/problem.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -494,10 +501,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019.9.12/solution.py">
+    <entry file="file://$PROJECT_DIR$/copy_n_paste/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="308">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copy_n_paste/problem.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.9.13/problem.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.9.13/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.9.13/my_solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="46" column="19" lean-forward="true" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
         </state>
       </provider>
     </entry>
