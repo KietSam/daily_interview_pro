@@ -11,7 +11,7 @@ class BoilerplateTest(unittest.TestCase):
 
     def test1(self):
         # expected, actual
-        # self.assertEqual([1, 4], self.solution.getRange([1, 2, 2, 2, 2, 3, 4, 7, 8, 8], 2))
+        # self.assertEqual()
         pass
 
 
