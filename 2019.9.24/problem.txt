@@ -1,0 +1,22 @@
+Hi, here's your problem today. This problem was recently asked by Google:
+
+Given a mathematical expression with just single digits, plus signs, negative signs, and brackets, evaluate the expression. Assume the expression is properly formed.
+
+Example:
+Input: - ( 3 + ( 2 - 1 ) )
+Output: -4
+Here's the function signature:
+
+def eval(expression):
+  # Fill this in.
+
+print eval('- (3 + ( 2 - 1 ) )')
+# -4
+
+
+Upgrade to PRO and get in-depth solutions to every problem from ex-Google and ex-Facebook engineers TechLead and Joma.
+
+Ready to fast-track your career? Join our premiere tech interview training program techinterviewpro.com.
+If you liked this problem, let your friends know at dailyinterviewpro.com.
+
+Have a great day!
