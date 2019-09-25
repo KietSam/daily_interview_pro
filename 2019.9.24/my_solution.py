@@ -11,9 +11,6 @@ def helper(exp, start_index, end_index, paren_args):
     if exp[start_index] == '(':
         paren_args.append(None)
         return helper(exp, start_index + 1, end_index, paren_args)
-    if exp[start_index] == ')':
-
-    if
 
     pass
 
